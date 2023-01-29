@@ -5,7 +5,7 @@ int main()
     int n1,n2, opt;
     float result;
 
-    printf("Choose an operation 1. Add 2 Sub 3. Mul 4. Div 5. Mod\n"); 
+    printf("Choose an operation 1.Add 2.Sub 3.Mul 4.Div 5.Mod\n"); 
     scanf("%d",&opt);
     printf("Enter first number: \n");
     scanf("%d",&n1); 
