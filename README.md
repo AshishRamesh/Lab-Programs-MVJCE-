@@ -1,4 +1,4 @@
-# Lab-Programs MVJCE
+# Lab Programs
 # By Ashish
 
 Repo Containing Lab programs For POP (C Program), Math Lab (Python)
