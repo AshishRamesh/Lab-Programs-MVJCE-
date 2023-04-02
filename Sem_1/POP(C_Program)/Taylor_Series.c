@@ -5,7 +5,7 @@
 {
          int i, degree;
          float x, sum=0,term,nume,deno;
-         printf("Enter the value of degree");
+         printf("Enter the value of degree ");
          scanf("%d",&degree);
          x = degree * (PI/180);
          nume = x;
