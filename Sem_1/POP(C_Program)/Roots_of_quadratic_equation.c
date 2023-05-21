@@ -27,7 +27,7 @@ int main()
     else
     { 
         realpart = -b/(2*a); 
-        imgpart = sqrt(-dis)/(a*a); 
+        imgpart = sqrt(-dis)/(2*a); 
         printf ("The roots are imaginary \n");
         return 0;
     }
